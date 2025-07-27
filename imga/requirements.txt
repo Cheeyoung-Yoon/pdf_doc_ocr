@@ -1,0 +1,9 @@
+openai
+gradio
+pandas
+numpy
+opencv-python
+PyMuPDF
+python-dotenv
+json_repair
+httpx

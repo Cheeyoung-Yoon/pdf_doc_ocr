@@ -1,0 +1,7 @@
+# 문서, 스프레드시트, PDF 파일 무시
+*.pdf
+*.csv
+*.xlsx
+*.jsonl
+*.json
+*.zip
