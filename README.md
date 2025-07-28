@@ -42,6 +42,7 @@ python batch_loop.py --work_path <PDF_폴더경로>
 ```
 
 ## 4. dir 구조
+```
 .
 ├── README.md
 ├── requirements.txt
@@ -72,7 +73,7 @@ python batch_loop.py --work_path <PDF_폴더경로>
     └──temp_work_dir/ # 모든 내/외부 IO 작업 진행 모듈 
        ├── pre_processed  # 이미지 전처리, batch로드를 위한 jsonl 임시 저장
        └── raw            # temp -> raw로 코드명으로 변환된 pdf 임시 저장 
-
+```
 ## 4. 파이프라인 개요
 
 
