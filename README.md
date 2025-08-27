@@ -1,4 +1,4 @@
-# 임가 pdf IE(information Extraction) 프로젝트트
+# pdf IE(information Extraction)
 
 Gradio UI를 통한 손쉬운 사용 방법과 `batch_loop.py`를 이용한 대량 배치 처리 방식 두 가지를 모두 다룹니다.
 
